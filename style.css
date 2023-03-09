@@ -112,14 +112,13 @@ li {
   display: grid;
   grid-template: repeat(1, 46.6666666667px)/repeat(18, 70px);
   grid-gap: 5px;
-  justify-content: left;
+  justify-content: center;
   width: 100%;
   min-width: 1300px;
   height: 46.6666666667px;
   margin: 0 auto;
   font-size: 1rem;
   z-index: 10;
-  padding-left: 53px;
 }
 .group__list.--is-fixed {
   z-index: 20;
